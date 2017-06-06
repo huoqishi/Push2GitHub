@@ -24,3 +24,6 @@
 
 此时,刷新一下，自己的远端仓库对应的网页  
 ![remote-reponsitory](./images/remote-reponsitory.jpg)
+
+*注意*
+为了避免冲突，可以先pull 然后再push 
